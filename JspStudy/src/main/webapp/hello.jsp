@@ -10,6 +10,7 @@
 <%
 	//스크립트릿 => 자바코드를 사용할 수 있도록 만들어주는 영역
 	String str ="홍길동";
+	//document.write("str="+str);
 	//System.out.print("str=>"+ str);
 	out.println("<h1>"+str+"</h1>"); //웹에 출력
 %>
